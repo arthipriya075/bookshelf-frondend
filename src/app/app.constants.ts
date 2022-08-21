@@ -1,0 +1,1 @@
+export const API_URL = "http://mybookshelfapp.ap-south-1.elasticbeanstalk.com"
