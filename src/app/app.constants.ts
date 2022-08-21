@@ -1,1 +1,1 @@
-export const API_URL = "{frontend-link}"
+export const API_URL = "{frontend-url}"
